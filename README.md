@@ -21,8 +21,8 @@ Here Are All The Pics Asked By Hack.Club :
 
 ![Macropad](https://github.com/rokesys32/MacroPad_HC/blob/main/Pics/schematic.png)
 ![Macropad](https://github.com/rokesys32/MacroPad_HC/blob/main/Pics/PCB.png)
-![Macropad](https://github.com/rokesys32/MacroPad_HC/blob/main/Pics/overhall.png)
-![Macropad](https://github.com/rokesys32/MacroPad_HC/blob/main/Pics/overhallpcb.png)
-![Macropad](https://github.com/rokesys32/MacroPad_HC/blob/main/Pics/overhallpcbback.png)
+![Macropad](https://github.com/rokesys32/MacroPad_HC/blob/main/Pics/overall.png)
+![Macropad](https://github.com/rokesys32/MacroPad_HC/blob/main/Pics/overallpcb.png)
+![Macropad](https://github.com/rokesys32/MacroPad_HC/blob/main/Pics/overallpcbback.png)
 
 
